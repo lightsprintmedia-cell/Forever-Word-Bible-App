@@ -1,0 +1,7 @@
+{
+  "name": "TheKing's - Forever Word Bible",
+  "description": "An immersive Bible experience featuring professional audio narration, persistent glassmorphic journal, AI-powered verse explanations, and seamless progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
